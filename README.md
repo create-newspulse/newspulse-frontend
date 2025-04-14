@@ -1,2 +1,3 @@
-# newspulse-frontend
-Next.js frontend for NewsPulse – AI-powered news platform
+# NewsPulse Final Deploy
+
+Frontend powered by Next.js & ready for Vercel or Netlify.
